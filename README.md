@@ -3,3 +3,6 @@
 
 # Visualization With Tableau
 ![Cluster K-Means   RFM](https://user-images.githubusercontent.com/55095414/118301146-f46dbe80-b50c-11eb-80f4-5bcd86deddcd.png)
+
+# Cluster Visualization With Scatter Plot
+![scatter plot vis](https://user-images.githubusercontent.com/55095414/118490130-ce802e00-b747-11eb-87c2-6ac77bacfe04.PNG)
